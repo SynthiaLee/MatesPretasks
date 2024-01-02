@@ -8,9 +8,9 @@ export default function SecondTest() {
     <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.min.js">
       <div
         style={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
+          //   display: "flex",
+          //   justifyContent: "center",
+          //   alignItems: "center",
           border: "1px solid rgba(0, 0, 0, 0.3)",
           height: "calc(100vh - 6rem)",
         }}
